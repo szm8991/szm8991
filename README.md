@@ -1,5 +1,6 @@
 ### Hi~I'm Song Zheming 👋
-I wang to be a frontend developer,Now I am studying for a master's degree in [HFUT](<https://map.baidu.com/search/%E5%90%88%E8%82%A5%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6(%E5%B1%AF%E6%BA%AA%E8%B7%AF%E6%A0%A1%E5%8C%BA)/@13057843.410666667,3720801.93,16.61z?querytype=s&da_src=shareurl&wd=%E5%90%88%E8%82%A5%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6(%E5%B1%AF%E6%BA%AA%E8%B7%AF%E6%A0%A1%E5%8C%BA)&c=179&src=0&wd2=%E5%90%88%E8%82%A5%E5%B8%82%E5%8C%85%E6%B2%B3%E5%8C%BA&pn=0&sug=1&l=12&b=(13344459,3490334;13420491,3538462)&from=webmap&biz_forward=%7B%22scaler%22:1,%22styles%22:%22pl%22%7D&sug_forward=eef2d52811c8d2a73ae4a6b0&device_ratio=1>)
+I want to be a frontend developer,Now I am studying for a master's degree in [HFUT](<https://map.baidu.com/search/%E5%90%88%E8%82%A5%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6(%E5%B1%AF%E6%BA%AA%E8%B7%AF%E6%A0%A1%E5%8C%BA)/@13057843.410666667,3720801.93,16.61z?querytype=s&da_src=shareurl&wd=%E5%90%88%E8%82%A5%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6(%E5%B1%AF%E6%BA%AA%E8%B7%AF%E6%A0%A1%E5%8C%BA)&c=179&src=0&wd2=%E5%90%88%E8%82%A5%E5%B8%82%E5%8C%85%E6%B2%B3%E5%8C%BA&pn=0&sug=1&l=12&b=(13344459,3490334;13420491,3538462)&from=webmap&biz_forward=%7B%22scaler%22:1,%22styles%22:%22pl%22%7D&sug_forward=eef2d52811c8d2a73ae4a6b0&device_ratio=1>)
+My favorite development framework is [Vue.js](https://v3.cn.vuejs.org),I wish to be an independent developer😊.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=szm8991.szm8991&left_color=green&right_color=red)
 
